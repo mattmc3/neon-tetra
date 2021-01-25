@@ -21,5 +21,8 @@ Starting with the excellent [pure prompt][pure] for fish, and then adding some s
 
 ![screenshot][screenshot]
 
+_neon-tetra running on MacOS terminal using the [spacegray eighties] theme_
+
 [pure]: https://github.com/pure-fish/pure
 [screenshot]: https://raw.githubusercontent.com/mattmc3/neon-tetra/resources/img/neon-tetra-terminal.png
+[spacegray eighties]: https://github.com/mbadolato/iTerm2-Color-Schemes#spacegray
