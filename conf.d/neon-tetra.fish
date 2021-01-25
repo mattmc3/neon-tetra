@@ -13,3 +13,7 @@ if test "$neon_tetra_initialized" != true
         fisher install pure-fish/pure
     end
 end
+
+function _neon-tetra_uninstall --on-event neon-tetra_uninstall
+    set -e neon_tetra_initialized
+end
