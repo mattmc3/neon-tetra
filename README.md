@@ -13,7 +13,7 @@
 
 > A simple, fast, colorful prompt for the fish shell
 
-Starting with the excellent [pure prompt][pure] for fish, and add some small enhancements to be more functional.
+Starting with the excellent [pure prompt][pure] for fish, and then adding some small enhancements to be more functional.
 
 <div style="clear:both">&nbsp;</div>
 
