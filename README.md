@@ -1,7 +1,3 @@
-# neon-tetra
+# neon-tetra resources branch
 
-> A simple, fast, colorful prompt for the fish shell
-
-Take the excellent [pure prompt][pure] for fish and tweak it to my liking.
-
-[pure]: https://github.com/pure-fish/pure
+This orphan branch is just here for the main branch's readme.
