@@ -34,8 +34,7 @@ fisher install mattmc3/neon-tetra
 ## Screenshot
 
 ![screenshot][screenshot]
-
-_neon-tetra running on MacOS terminal using the [spacegray eighties] theme_
+*neon-tetra running on MacOS terminal using the [spacegray eighties] theme*
 
 [fisher]: https://github.com/jorgebucaran/fisher
 [reel]: https://github.com/mattmc3/reel
