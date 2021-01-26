@@ -17,12 +17,28 @@ Starting with the excellent [pure prompt][pure] for fish, and then adding some s
 
 <div style="clear:both">&nbsp;</div>
 
+## Installation
+
+With [reel]:
+
+```
+reel in mattmc3/neon-tetra
+```
+
+With [fisher]:
+
+```
+fisher install mattmc3/neon-tetra
+```
+
 ## Screenshot
 
 ![screenshot][screenshot]
 
 _neon-tetra running on MacOS terminal using the [spacegray eighties] theme_
 
+[fisher]: https://github.com/jorgebucaran/fisher
+[reel]: https://github.com/mattmc3/reel
 [pure]: https://github.com/pure-fish/pure
 [screenshot]: https://raw.githubusercontent.com/mattmc3/neon-tetra/resources/img/neon-tetra-terminal.png
 [spacegray eighties]: https://github.com/mbadolato/iTerm2-Color-Schemes#spacegray
