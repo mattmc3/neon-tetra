@@ -1,10 +1,13 @@
 .DEFAULT_GOAL := help
+.PHONY: help pretty submodules
 
-.PHONY: pretty
 pretty:
 	fish_indent -w ./**/*.fish
 
-.PHONY: help
+submodules:
+	git submodule update --recursive --remote
+
 help:
-	@echo "help    show this message"
-	@echo "pretty  Run fish_indent against all fish files. "
+	@echo "help        Show this message"
+	@echo "submodules  Update submodules"
+	@echo "pretty      Run fish_indent against all fish files"
