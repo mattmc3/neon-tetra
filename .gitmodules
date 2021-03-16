@@ -1,0 +1,3 @@
+[submodule "modules/pure"]
+	path = modules/pure
+	url = https://github.com/pure-fish/pure
